@@ -1,1 +1,2 @@
-py_aabot_launcher
+
+Small script for rebuild docker containers and relaunch bot
